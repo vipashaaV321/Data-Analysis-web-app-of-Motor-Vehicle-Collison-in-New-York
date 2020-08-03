@@ -7,9 +7,9 @@ This is an Interactive DashBoard made in Streamlit,in which Data Analysis is don
 https://drive.google.com/file/d/1x0A8TXS-iYT83WGQrz80Yp52Pnd5Ft5O/view?usp=sharing
 
 # How to Run?
-# pip install streamlit
-# pip install plotly
-# streamlit run app.py
+pip install streamlit
+pip install plotly
+streamlit run app.py
 
 
 
