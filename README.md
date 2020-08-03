@@ -8,7 +8,10 @@ https://drive.google.com/file/d/1x0A8TXS-iYT83WGQrz80Yp52Pnd5Ft5O/view?usp=shari
 
 # How to Run?
 pip install streamlit
+
 pip install plotly
+
+
 streamlit run app.py
 
 
